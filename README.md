@@ -33,9 +33,8 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 ### How To Use
 
 - Clone this repo
-- run `yarn`
-- `yarn dev`
-
+- run `yarn` or `npm i` if that doesn't work use `npm install --legacy-peer-deps`
+- `yarn dev` or `npm run dev` to start the development server
 
 ### How To Deploy - 
 
